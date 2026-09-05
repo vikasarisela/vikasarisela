@@ -1,3 +1,3 @@
-<p align="center">
-  <img src="images/banner-1.png" width="100%">
-</p>
+<div align="center">
+  <img src="images/banner-1.png" alt="Github Banner" width="100%">
+</div>
