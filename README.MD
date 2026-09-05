@@ -17,6 +17,6 @@
   vikas.arisela@gmail.com
 </a>
 
-<br><br>
+<br>
 
 I'm a passionate **Cloud & DevOps Engineer** with **3 years of hands-on experience** working with AWS, Linux, DevOps, and cloud infrastructure. I specialize in Infrastructure as Code, CI/CD automation, Docker, Kubernetes, Terraform, Ansible, and AWS, building scalable and reliable infrastructure and deployment solutions.
