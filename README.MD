@@ -8,12 +8,13 @@
 **DevOps / Cloud Engineer | AWS | Linux | Docker | Jenkins | Terraform | Ansible**
 
 <a href="https://www.linkedin.com/in/vikasae/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" height="18">
   www.linkedin.com/in/vikasae/
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:vikas.arisela@gmail.com">
-  📧 vikas.arisela@gmail.com
+  <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" width="18" height="18">
+  vikas.arisela@gmail.com
 </a>
 
 
