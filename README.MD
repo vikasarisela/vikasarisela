@@ -8,12 +8,14 @@
 **DevOps / Cloud Engineer | AWS | Linux | Docker | Jenkins | Terraform | Ansible**
 
 <a href="https://www.linkedin.com/in/vikasae/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" height="20" /> 
+  www.linkedin.com/in/vikasae/
 </a>
-&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:vikas.arisela@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" height="20">
+  📧 vikas.arisela@gmail.com
 </a>
+
 
 
 I'm a passionate **Cloud & DevOps Engineer** with **3 years of hands-on experience** working with AWS, Linux, DevOps, and cloud infrastructure. I specialize in Infrastructure as Code, CI/CD automation, Docker, Kubernetes, Terraform, Ansible, and AWS, building scalable and reliable infrastructure and deployment solutions.
