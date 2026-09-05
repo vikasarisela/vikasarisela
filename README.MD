@@ -3,6 +3,6 @@
 </div>
 
 
-👋 Hi, I'm Vikas
+# 👋 Hi, I'm Vikas
    
-   DevOps / Cloud Engineer | AWS | Linux | Docker | Jenkins | Terraform | Ansible
+### DevOps / Cloud Engineer | AWS | Linux | Docker | Jenkins | Terraform | Ansible
