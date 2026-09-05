@@ -36,3 +36,15 @@ I'm a passionate <strong>Cloud & DevOps Engineer</strong> with <strong>3 years o
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+
+
+## 🔧 What I Do
+
+- ☁️ Build and manage cloud infrastructure using **AWS and Terraform**
+- 🐧 Automate server configuration using **Linux, Shell Scripting and Ansible**
+- 🐳 Build and manage containerized applications using **Docker**
+- ☸️ Deploy and manage workloads using **Kubernetes and Helm**
+- 🚀 Build CI/CD pipelines using **Jenkins and GitHub Actions**
+- 🔄 Manage source code and workflows using **Git and GitHub**
+- 🔐 Integrate code quality and security scanning using **SonarQube and Trivy**
+- ⚙️ Automate infrastructure provisioning and application deployments
